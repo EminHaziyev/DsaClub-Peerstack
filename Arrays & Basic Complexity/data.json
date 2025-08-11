@@ -1,0 +1,14 @@
+{
+  "week_name": "Week 1 - Arrays",
+"week_description": "Mövzular:\n\nBig O Notation (Time & Space Complexity)\n\nArray əsasları, indeksləmə, traversing\n\nTwo-pointer texnikası\n\nSliding window giriş",
+  "tasks": [
+    {
+      "task_name": "Bu hissəni ilk dərsdən sonra görəcəksiniz",
+      "task_link": "https://dsaclub.emin.works",
+      "solution_link": "https://dsaclub.emin.works"
+    }
+  ],
+  "resources": [
+    "https://dsaclub.emin.works"
+  ]
+}
