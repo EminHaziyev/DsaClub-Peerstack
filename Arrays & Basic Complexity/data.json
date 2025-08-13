@@ -1,14 +1,25 @@
 {
-  "week_name": "Week 1 - Arrays",
+  "week_name": "Week 1 - Arrays & Basic Complexity",
 "week_description": "Mövzular:\n\nBig O Notation (Time & Space Complexity)\n\nArray əsasları, indeksləmə, traversing\n\nTwo-pointer texnikası\n\nSliding window giriş",
   "tasks": [
     {
-      "task_name": "Bu hissəni ilk dərsdən sonra görəcəksiniz",
-      "task_link": "https://dsaclub.emin.works",
-      "solution_link": "https://dsaclub.emin.works"
+      "task_name": "Two Sum",
+      "task_link": "https://leetcode.com/problems/two-sum/",
+      "solution_link": "#"
+    },
+    {
+      "task_name": "Best Time to Buy and Sell Stock",
+      "task_link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/",
+      "solution_link": "#"
+    },
+    {
+      "task_name": "Maximum Subarray",
+      "task_link": "https://leetcode.com/problems/maximum-subarray/description/",
+      "solution_link": "#"
     }
   ],
   "resources": [
-    "https://dsaclub.emin.works"
+    "https://www.geeksforgeeks.org/array-data-structure/",
+    "https://www.bigocheatsheet.com/"
   ]
 }
