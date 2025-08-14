@@ -5,7 +5,7 @@
     {
       "task_name": "Two Sum",
       "task_link": "https://leetcode.com/problems/two-sum/",
-      "solution_link": "#"
+      "solution_link": "https://github.com/EminHaziyev/DsaClub-Peerstack/blob/main/Arrays%20%26%20Basic%20Complexity/"
     },
     {
       "task_name": "Best Time to Buy and Sell Stock",
@@ -20,6 +20,7 @@
   ],
   "resources": [
     "https://www.geeksforgeeks.org/array-data-structure/",
-    "https://www.bigocheatsheet.com/"
+    "https://www.bigocheatsheet.com/",
+    "https://tedbilik.github.io/kamp/cpp/"
   ]
 }
