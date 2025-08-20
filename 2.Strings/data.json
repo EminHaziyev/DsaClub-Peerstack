@@ -1,0 +1,24 @@
+{
+  "week_name": "Strings",
+"week_description": "String manipulyasiyası Reverse string Palindrome yoxlama Anagramlar Sliding window ilə substring problemləri",
+  "tasks": [
+    {
+      "task_name": "Valid Palindrome",
+      "task_link": "https://leetcode.com/problems/valid-palindrome",
+      "solution_link": "https://dsaclub.emin.works"
+    },
+    {
+      "task_name": "Valid Anagram",
+      "task_link": "https://leetcode.com/problems/valid-anagram/",
+      "solution_link": "https://dsaclub.emin.works"
+    },
+    {
+      "task_name": "Longest Substring Without Repeating Characters",
+      "task_link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+      "solution_link": "https://dsaclub.emin.works"
+    }
+  ],
+  "resources": [
+    "https://www.geeksforgeeks.org/string-data-structure/"
+  ]
+}
