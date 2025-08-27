@@ -1,14 +1,19 @@
 {
-  "week_name": "Coming soon",
-"week_description": "Coming soon",
+  "week_name": "Hashing & Hash Maps",
+"week_description": "Mövzular: Hashing anlayışı,HashMap istifadəsi, Frequency count pattern, Set və Map fərqləri",
   "tasks": [
     {
-      "task_name": "Coming soon",
-      "task_link": "https://dsaclub.emin.works",
+      "task_name": "Contains Duplicate",
+      "task_link": "https://leetcode.com/problems/contains-duplicate",
+      "solution_link": "https://dsaclub.emin.works"
+    },
+    {
+      "task_name": "Group Anagrams",
+      "task_link": "https://leetcode.com/problems/group-anagrams/",
       "solution_link": "https://dsaclub.emin.works"
     }
   ],
   "resources": [
-    "https://dsaclub.emin.works"
+    "https://www.geeksforgeeks.org/hashing-data-structure/"
   ]
 }
